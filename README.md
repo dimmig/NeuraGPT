@@ -1,5 +1,3 @@
-Here is a basic README file for the `NeuraGPT` repository:
-
 ---
 
 # NeuraGPT
